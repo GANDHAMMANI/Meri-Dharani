@@ -3,8 +3,9 @@
 
 > **Transforming waste management through intelligent coordination - connecting citizens, workers, and government with real-time AI insights.**
 
-<img width="1919" height="952" alt="Screenshot 2025-08-23 054253" src="https://github.com/user-attachments/assets/aecf8921-9c5e-4c90-89ef-c39887b4c35d" />
-<img width="1904" height="933" alt="Screenshot 2025-08-23 053906" src="https://github.com/user-attachments/assets/e59bd0e7-0453-45d0-b8b3-91b22a853368" />
+<img width="1867" height="952" alt="Screenshot 2025-08-23 054253" src="https://github.com/user-attachments/assets/d6f9be68-d55f-47e9-bf9c-fb5e92783f4a" />
+<img width="1852" height="933" alt="Screenshot 2025-08-23 053906" src="https://github.com/user-attachments/assets/d823f386-a89e-4127-a85c-7e5781f1e89f" />
+
 
 ---
 
@@ -96,7 +97,7 @@ processor = MllamaProcessor.from_pretrained(model_id)
 | Community Gamification | ⚠️ Simple points | ✅ Dynamic Challenges |
 | Worker Coordination | ❌ Major gap | ✅ Smart matching system |
 
-### 🌟 Unique Innovations
+### 🌟 Innovation Highlights
 1. **AI-Powered Waste Detection**: Llama 3.2 Vision for 95%+ accuracy classification
 2. **Serverless Notifications**: AWS Lambda ensures instant, scalable alerts
 3. **Predictive Hotspot Mapping**: ML algorithms prevent problems before they happen
@@ -137,30 +138,7 @@ processor = MllamaProcessor.from_pretrained(model_id)
 
 ---
 
-## 👥 Technical Stack Summary
 
-```yaml
-Backend:
-  - FastAPI (Python)
-  - MongoDB Atlas
-  - AWS Lambda
-  - Google OAuth
-  - Cloudinary
-
-Frontend:
-  - HTML5 + CSS3
-  - Tailwind CSS  
-  - JavaScript
-  - Mapbox + OpenStreetMap
-  - PWA
-
-AI/ML:
-  - Llama 3.2-11B Vision
-  - Llama 3.3-70B Chat
-  - Meta Scout 17B
-  - PyTorch + Transformers
-  - Groq Cloud API
-```
 
 ---
 
